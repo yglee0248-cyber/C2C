@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test</groupId>
-	<artifactId>react_semi_back</artifactId>
+	<artifactId>c2c-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>react_web_back</name>
+	<name>C2C Backend</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
